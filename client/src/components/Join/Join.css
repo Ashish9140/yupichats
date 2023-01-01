@@ -64,12 +64,6 @@ body {
     width: 90%;
   }
 
-  .form {
-    margin-bottom: 40px;
-    border: 2px solid #1f4336;
-  }
-
-
 }
 
 button:focus {

@@ -7,10 +7,15 @@ body {
 
 #root {
   height: 100vh;
+  overflow: hidden;
 }
 
 * {
   box-sizing: border-box;
+}
+
+body {
+  overflow: hidden;
 }
 
 .joinOuterContainer {
@@ -21,6 +26,7 @@ body {
   align-items: center;
   background-color: #1A1A1D;
 }
+
 
 .joinInnerContainer {
   width: 20%;
